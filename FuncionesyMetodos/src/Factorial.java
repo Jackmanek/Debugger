@@ -3,7 +3,7 @@ public class Factorial {
 
 	public static void main(String[] args) {
 		
-		System.out.println(factorial(20));
+		System.out.println(factorial(50));
 
 	}
 	public static int factorial(int num){
